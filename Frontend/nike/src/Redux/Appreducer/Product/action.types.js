@@ -1,0 +1,25 @@
+export const GET_DATA_LOADING = "GET_DATA_LOADING";
+export const GET_DATA_SUCCESS = "GET_DATA_SUCCESS";
+export const GET_DATA_ERROR = "GET_DATA_ERROR";
+
+export const PRICE_LOW_TO_HIGH = "PRICE_LOW_TO_HIGH";
+export const PRICE_HIGH_TO_LOW = "SORT_HIGH_TO_LOW";
+export const RATING_LOW_TO_HIGH = "RATING_LOW_TO_HIGH";
+export const RATING_HIGH_TO_LOW = "RATING_HIGH_TO_LOW";
+
+export const RESET_FILTERS = "RESET_FILTERS";
+export const SHOW_FILTER = "SHOW_FILTER";
+
+export const SHOW_SINGLE_PRODUCT = "SHOW_SINGLE_PRODUCT";
+
+export const ADD_TO_CART = "ADD_TO_CART";
+export const SHOW_CART_DATA = "SHOW_CART_DATA";
+export const DELETE_CART_ITEM = "DELETE_CART_ITEM";
+export const UPDATE_CART_ITEM = "UPDATE_CART_ITEM";
+
+export const SEARCH_PRODUCT="SEARCH_PRODUCT";
+export const SHIPPING_DATA="SHIPPING_DATA"
+
+export const ADD_TO_FAV="ADD_TO_FAV";
+export const SHOW_ALL_FAV="SHOW_ALL_FAV";
+export const DELETE_FAV="DELETE_FAV";
